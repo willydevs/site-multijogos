@@ -16,7 +16,7 @@ const HeroVideo = () => {
                     playsInline
                 >
                     <source
-                        src="https://gameplaybox.com.br/wp-content/uploads/2025/11/video-fundo-gameplaybox.mp4"
+                        src="https://plustech.aju.br/wp-content/uploads/2026/01/video-fundo-retrobox.mp4"
                         type="video/mp4"
                     />
                     Seu navegador não suporta a tag de vídeo.
