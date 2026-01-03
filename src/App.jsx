@@ -13,7 +13,7 @@ function App() {
     return (
         <>
             <Helmet>
-                <title>GPBOX - Transforme seu PC em uma central completa de jogos</title>
+                <title>ᏀᏢBOX - Transforme seu PC em uma central completa de jogos</title>
                 <meta
                     name="description"
                     content="Mais de 10 mil jogos clássicos e modernos em um único sistema, sem mensalidade. Acesso vitalício, suporte eficiente e garantia de 7 dias."

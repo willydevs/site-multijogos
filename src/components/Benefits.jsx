@@ -41,7 +41,7 @@ const Benefits = () => {
                     className="text-center mb-16"
                 >
                     <h2 className="text-4xl md:text-5xl font-bold mb-4 bg-gradient-to-r from-purple-400 to-blue-400 bg-clip-text text-transparent">
-                        Por que escolher GPBOX?
+                        Por que escolher ᏀᏢBOX?
                     </h2>
                     <p className="text-xl text-gray-400">Vantagens exclusivas para sua experiência gamer</p>
                 </motion.div>
@@ -59,7 +59,7 @@ const Benefits = () => {
                                 whileHover={{ y: -8, transition: { duration: 0.3 } }}
                                 className="relative group"
                             >
-                                <div className="absolute inset-0 bg-gradient-to-br opacity-0 group-hover:opacity-100 rounded-2xl blur-xl transition-opacity duration-300"
+                                <div
                                     style={{ background: `linear-gradient(to bottom right, var(--tw-gradient-stops))` }}
                                     className={`bg-gradient-to-br ${benefit.gradient} absolute inset-0 opacity-0 group-hover:opacity-100 rounded-2xl blur-xl transition-opacity duration-300`}
                                 />

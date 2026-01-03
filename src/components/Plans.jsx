@@ -5,23 +5,23 @@ import { ExternalLink, Star } from 'lucide-react';
 
 const plans = [
     {
-        name: 'Pack Standard GPBOX',
+        name: 'Pack Standard ᏀᏢBOX',
         image: 'https://horizons-cdn.hostinger.com/289293dc-3490-4486-972b-33e4d34b1415/e6c10cfce889093d2340f8ccd1fd838a.png',
         link: 'https://go.perfectpay.com.br/PPU38CPRMCT',
         priceOriginal: 67.0,
         pricePromo: 50.0,
         description:
-            'Acesso básico ao Sistema GPBOX. Acesso a mais de 7.000 jogos clássicos que marcaram gerações. Cerca de 80 GB de conteúdo totalmente organizado. ',
+            'Acesso básico ao Sistema ᏀᏢBOX. Acesso a mais de 7.000 jogos clássicos que marcaram gerações. Cerca de 80 GB de conteúdo totalmente organizado. ',
         popular: true
     },
     {
-        name: 'Pack Adicional GPBOX',
+        name: 'Pack Adicional ᏀᏢBOX',
         image: 'https://horizons-cdn.hostinger.com/289293dc-3490-4486-972b-33e4d34b1415/73aae1ececb0259e5cde04fc001aeb23.png',
         link: 'https://go.perfectpay.com.br/PPU38CPRO7J',
         priceOriginal: 57.0,
         pricePromo: 40.0,
         description:
-            'Expanda sua biblioteca no GPBOX. Desbloqueia mais consoles e jogos, ampliando a experiência do Pack Standard. Inclui sistemas como PSP, PS2, PS3, PS4, PS5, Xbox 360, Xbox One/S, GameCube, Wii, Wii U e Switch. Requer o Pack Standard.',
+            'Expanda sua biblioteca no ᏀᏢBOX. Desbloqueia mais consoles e jogos, ampliando a experiência do Pack Standard. Inclui sistemas como PSP, PS2, PS3, PS4, PS5, Xbox 360, Xbox One/S, GameCube, Wii, Wii U e Switch. Requer o Pack Standard.',
         popular: false
     },
     {
@@ -31,7 +31,7 @@ const plans = [
         priceOriginal: 60.0,
         pricePromo: 40.0,
         description:
-            'Novos jogos adicionados continuamente. Biblioteca em constante crescimento com atualizações frequentes. Mais de 20 TB de conteúdo, incluindo grandes clássicos e títulos marcantes. Ideal para manter o GPBOX sempre atualizado.',
+            'Novos jogos adicionados continuamente. Biblioteca em constante crescimento com atualizações frequentes. Mais de 20 TB de conteúdo, incluindo grandes clássicos e títulos marcantes. Ideal para manter o ᏀᏢBOX sempre atualizado.',
         popular: false
     },
     {
@@ -41,7 +41,7 @@ const plans = [
         priceOriginal: 184.0,
         pricePromo: 100.0,
         description:
-            'O pacote mais completo para jogar no PC. Reúne todos os principais conteúdos do GPBOX em uma única compra, garantindo acesso total à biblioteca. Mais economia, mais jogos e atualizações contínuas, sem mensalidade.',
+            'O pacote mais completo para jogar no PC. Reúne todos os principais conteúdos do ᏀᏢBOX em uma única compra, garantindo acesso total à biblioteca. Mais economia, mais jogos e atualizações contínuas, sem mensalidade.',
         popular: false
     },
     {
@@ -51,7 +51,7 @@ const plans = [
         priceOriginal: 214.0,
         pricePromo: 120.0,
         description:
-            'A experiência mais completa do GPBOX. Acesso total no PC e também no mobile, sem limitações. Todos os conteúdos reunidos em um único pacote, oferecendo liberdade total para jogar onde quiser.',
+            'A experiência mais completa do ᏀᏢBOX. Acesso total no PC e também no mobile, sem limitações. Todos os conteúdos reunidos em um único pacote, oferecendo liberdade total para jogar onde quiser.',
         popular: true
     },
     {

@@ -11,12 +11,12 @@ const Footer = () => {
                             <Gamepad2 className="w-6 h-6 text-white" />
                         </div>
                         <span className="text-2xl font-bold bg-gradient-to-r from-purple-400 to-violet-400 bg-clip-text text-transparent">
-                            GPBOX
+                            ᏀᏢBOX
                         </span>
                     </div>
 
                     <div className="flex flex-col md:flex-row items-center gap-4 text-gray-400 text-sm">
-                        <p>© 2026 GPBOX. Todos os direitos reservados.</p>
+                        <p>© 2026 ᏀᏢBOX. Todos os direitos reservados.</p>
                         <span className="hidden md:inline text-purple-500/50">•</span>
                         <p>Transformando PCs em centrais completas de jogos</p>
                     </div>
